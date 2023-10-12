@@ -24,6 +24,15 @@ public class Main { // Main 클레스
     //클래서명("~") : 매개변수 자리
     //String[[ args : arg 문자열을 배열로 사용하겠다.
     public static void main(String[] args) { // main 메소드
-        System.out.println("Hello world!");
+
+        //객체 : 특징(속성, 변수), 행동(매소드)
+        //System.out.println("Hello world!");
+        System.out.println(7);
+        System.out.println(3);
+        System.out.println(3.14);
+        System.out.println("JAVA");
+
+
+
     }
 }
